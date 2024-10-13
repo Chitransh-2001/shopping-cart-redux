@@ -1,0 +1,8 @@
+.price{
+    background-color:rgb(0, 0, 175) ;
+    color: white;
+    
+}
+.price:hover{
+    background-color: rgb(0, 0, 175);
+}
